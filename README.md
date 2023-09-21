@@ -1,8 +1,8 @@
 Squaring Venture Capital Valuations With Reality - Will Gornall and Ilya A. Strebulaev
 Supporting Code
 
-Author: Will Gornall 
-Site: willgornall.com
+Will Gornall  (willgornall.com)
+
 2018; Last revision: Aug 2018
  
 Run generateAllTables.m to produce Table 1 in the paper. 
